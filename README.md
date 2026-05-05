@@ -48,16 +48,6 @@ I'm a **Data Science & Artificial Intelligence** student at PUCRS, focused on da
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Colling&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Colling&layout=compact&langs_count=6&theme=github_dark"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to internship opportunities in Data Analysis, Data Engineering, and AI.</i>
 </p>
