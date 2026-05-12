@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Araujo Colling</h1>
-<h3 align="center">Data Science & AI Student · NLP & LLMs · Porto Alegre, BR</h3>
+<h3 align="center">Data Science & AI Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-colling">
